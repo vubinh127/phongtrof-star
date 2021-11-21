@@ -1,0 +1,44 @@
+.logo img{
+  width: 100px;
+  height: 100px;
+}
+
+.banner img{
+  width: 1519px;
+  height: 457px;
+}
+
+/*Main*/
+
+.wrap-room img {
+  width: 350px;
+  height:350px;
+  transition: all 10s;
+}
+
+.type-room:hover{
+  transform: scale(1.1,1.1);
+}
+
+.notice img{
+  padding-left:300px;
+}
+
+/*Footer*/
+
+.contact {
+  background-color: #ececec;
+  border-radius:3%;
+}
+
+.admin img {
+  width: 100px;
+  height: 100px;
+  transition: all 5s;
+}
+
+.admin  a => img:hover{
+    
+}
+
+

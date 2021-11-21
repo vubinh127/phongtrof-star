@@ -1,0 +1,30 @@
+/*Header*/
+
+.logo img{
+  width: 100px;
+  height: 100px;
+}
+
+.banner img{
+  width: 1519px;
+  height: 457px;
+}
+
+/*Main*/
+
+.show-room img{
+  width: 540px;
+  height: 365px;
+}
+
+/*Footer*/
+
+.contact {
+  background-color: #ececec;
+  border-radius:3%;
+}
+
+.admin img {
+  width: 100px;
+  height: 100px;
+}
